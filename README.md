@@ -1,4 +1,3 @@
-
 👋 Olá, Eu sou Ernesto!
 🎓 Estudante de Ciência da Computação
 💻 Desenvolvedor de Software | Análise de Dados
@@ -10,3 +9,4 @@
 🎨 HTML & CSS
 📊 Análise de Dados
    
+
